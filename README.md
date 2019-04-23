@@ -1,2 +1,3 @@
-# myGitTemp
-myGitTemp
+First use of Github
+
+
